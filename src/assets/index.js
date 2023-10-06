@@ -1,0 +1,8 @@
+export {default as logo} from './logo.png'
+export {default as menu} from './menu.svg'
+export {default as close} from './close.svg'
+export {default as robot} from './robot.png'
+export {default as search} from './search.svg'
+export {default as social} from './social.svg'
+export {default as app} from './app.png'
+export {default as google} from './google.png'
